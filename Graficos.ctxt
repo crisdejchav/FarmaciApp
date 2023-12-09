@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Graficos
+comment0.text=\r\n\ Ventana\ principal\ de\ la\ aplicaci\u00F3n\r\n\ \r\n\ @author\ Cristian\ Chavez\r\n\ @version\ 8.12.2023\r\n
+comment1.params=
+comment1.target=Graficos()
+comment2.params=
+comment2.target=void\ initVentana()
+comment3.params=
+comment3.target=void\ initBarraLateral()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
